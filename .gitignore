@@ -1,0 +1,12 @@
+# Word documents
+*.doc
+*.docx
+~$*.doc
+~$*.docx
+
+# Claude Code local config
+.claude/
+
+# OS artefacts
+Thumbs.db
+.DS_Store
